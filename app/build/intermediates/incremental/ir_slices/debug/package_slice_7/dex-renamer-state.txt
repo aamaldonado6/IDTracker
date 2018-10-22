@@ -1,0 +1,4 @@
+#Mon Oct 22 09:37:10 ECT 2018
+base.0=/home/alv/AndroidStudioProjects/TrackerID/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
